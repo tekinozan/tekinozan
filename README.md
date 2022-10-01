@@ -1,8 +1,6 @@
 # Hello World 👋
 
-
-Hi! My name is Diyar Ozan Tekin.<br/>
-I am a Mobile Application Developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Diyar+Ozan+Tekin.;I+am+a+Computere+Engineer.)](https://git.io/typing-svg)
 
  - 🏢 I'm currently studying **Computer Engineering**.
 - 📫 How to reach me **tekin.ozan12@hotmail.com**
