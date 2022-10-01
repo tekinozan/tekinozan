@@ -1,6 +1,5 @@
 # Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+G%C3%B6kberk+Bardak%C3%A7%C4%B1.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
 Hi! My name is Diyar Ozan Tekin.<br/>
 I am a Computer Engineer.
