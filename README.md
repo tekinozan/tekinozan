@@ -5,7 +5,7 @@ Hi! My name is Diyar Ozan Tekin.<br/>
 I am a Mobile Application Developer.
 
  - 🏢 I'm currently studying **Computer Engineering**.
-- 📫 How to reach me **kemalekren@hotmail.com**
+- 📫 How to reach me **tekin.ozan12@hotmail.com**
  - ⚙️ I use: `.python`, `.c#`, `.java`, `.dart`
  - 🌱 Learning all about Flutter and currently learning **c#
 
