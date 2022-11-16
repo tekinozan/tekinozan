@@ -8,7 +8,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tekinozan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekinozan&langs_count=10&theme=cobalt&layout=compact" alt="Ozan" /></p><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekinozan&layout=compact)](https://github.com/tekinozan/github-readme-stats)
 <br><br>
 
 ## Learning
