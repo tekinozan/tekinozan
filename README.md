@@ -8,6 +8,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tekinozan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizemececetin&langs_count=10&theme=cobalt&layout=compact" alt="Gizem" /></p>
 
 ## Learning
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
