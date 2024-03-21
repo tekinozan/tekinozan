@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Diyar+Ozan+Tekin.;I+am+a+Computere+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Diyar+Ozan+Tekin.;I+am+a+Software+Developer.)](https://git.io/typing-svg)
 
  - 🏢 I'm currently working as a **Software Developer**.
 - 📫 How to reach me **tekin.ozan12@hotmail.com**
