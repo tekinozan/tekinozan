@@ -124,8 +124,6 @@ I'm always interested in discussing new projects, opportunities, or collaboratio
 
 <div align="center">
 
-### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
